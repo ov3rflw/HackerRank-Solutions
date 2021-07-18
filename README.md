@@ -1,3 +1,3 @@
-[!alt text](https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png)
+![alt text](https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png)
 
 Solutions to challenges on Hackerrank in different languages
