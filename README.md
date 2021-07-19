@@ -8,4 +8,4 @@ Solutions to challenges on HackerRank in different languages.
   - and others (for fun)
 
 
-https://www.hackerrank.com/
+Link to the website: https://www.hackerrank.com/
