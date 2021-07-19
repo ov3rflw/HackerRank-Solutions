@@ -5,7 +5,7 @@ Solutions to challenges on HackerRank in different languages.
   - Python
   - JavaScript
   - Bash
-
+  - and others (for fun)
 
 
 https://www.hackerrank.com/
